@@ -1,4 +1,5 @@
-<img src="https://images.unsplash.com/photo-1548393488-ae8f117cbc1c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80" min-width="400px" max-width="400px" width="400px" align="right" alt="JV Computer">
+<img src="https://cdn.dribbble.com/users/5448869/screenshots/11964344/media/7c1a55db92d1d015c51ad7595a2b82ff.png?compress=1&resize=400x300" min-width="400px" max-width="400px" width="400px" align="right" alt="JV Computer">
+
 
 ### Hey there, this is Juliana 👋
 
