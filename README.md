@@ -17,7 +17,7 @@
 
 [<img align="left" alt="Juliana | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][https://www.linkedin.com/in/julianavelasquesbalta/]
 [<img align="left" alt="Juliana | Dev" height="22px" src="./SocialLogo/Dev.png" />][https://dev.to/julianavelasques]
-[<img align="left" alt="Sabesan | Instagram" height="22px" src="./SocialLogo/Instagram.png" />][https://www.instagram.com/eng.velasques/]
+[<img align="left" alt="Juliana | Instagram" height="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Fbr%2Ficone-gratis%2Flogotipo-do-instagram_87390&psig=AOvVaw1mcBdrXLN8AVLhel8_HHRL&ust=1622580979433000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDpgann9PACFQAAAAAdAAAAABAD" />][https://www.instagram.com/eng.velasques/]
 
 <br />
 
