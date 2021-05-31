@@ -15,9 +15,9 @@
 
 ### Connect with me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julianavelasquesbalta/)](https://www.linkedin.com/in/julianavelasquesbalta/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/eng.velasques/)]
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)] julianabalta16@gmail.com
+[![Linkedin Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://www.linkedin.com/in/julianavelasquesbalta/)](https://www.linkedin.com/in/julianavelasquesbalta/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/eng.velasques/)](https://www.instagram.com/eng.velasques/)
+
 
 
 <br />
