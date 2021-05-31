@@ -1,3 +1,5 @@
+<img src="https://images.unsplash.com/photo-1548393488-ae8f117cbc1c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80" min-width="400px" max-width="400px" width="400px" align="right" alt="JV Computer">
+
 ### Hey there, this is Juliana 👋
 
 ## I'm a Civil Engineering Student and Front-End Web developer.
