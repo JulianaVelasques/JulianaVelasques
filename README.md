@@ -15,9 +15,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Juliana | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][https://www.linkedin.com/in/julianavelasquesbalta/]
-[<img align="left" alt="Juliana | Dev" height="22px" src="./SocialLogo/Dev.png" />][https://dev.to/julianavelasques]
-[<img align="left" alt="Juliana | Instagram" height="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Fbr%2Ficone-gratis%2Flogotipo-do-instagram_87390&psig=AOvVaw1mcBdrXLN8AVLhel8_HHRL&ust=1622580979433000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDpgann9PACFQAAAAAdAAAAABAD" />][https://www.instagram.com/eng.velasques/]
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julianavelasquesbalta/)](https://www.linkedin.com/in/julianavelasquesbalta/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/eng.velasques/)]
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)] julianabalta16@gmail.com
+
 
 <br />
 
