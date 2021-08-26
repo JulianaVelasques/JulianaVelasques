@@ -1,20 +1,48 @@
-<img src="https://cdn.dribbble.com/users/5448869/screenshots/11964344/media/7c1a55db92d1d015c51ad7595a2b82ff.png?compress=1&resize=400x300" min-width="400px" max-width="400px" width="400px" align="right" alt="JV Computer">
 
 
-### Hey there, this is Juliana 👋
 
-## I'm a Civil Engineering Student and Front-End Web developer.
+# Hey there, this is Juliana 👋
+
+### I'm a Civil Engineering Student and Front-End Web developer.
 
 - 🎓 Education:
 	- Bachelor's in Civil Engineering (Brazil 🇧🇷)
 	- Summer School in Artificial Intelligence (China 🇨🇳)
-	- I'm currently learning Front-End Web Design, Data Science and Artificial Intelligence. 
-  
-- 🚀 Current working with: HTML, CSS, Javascript.
+	- I'm currently learning Front-End Web Design and little of Back-end. 
 
-- 💻 Tools: VSCode, Figma.
+- 👩🏽‍💻 I'm a very curious person and love learning new stuff
 
 - ⚡ Fun fact: I'm a ballerina and I love hiking.
+
+
+### 🛠 Analytics & Languages
+<div align="center">
+  <img height=160px src="https://github-readme-stats.vercel.app/api?username=JulianaVelasques&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"" alt="JulianaVelasques" />
+  <img height=160px src="https://github-readme-stats.vercel.app/api/top-langs?username=JulianaVelasques&layout=compact&langs_count=16&theme=dracula"" alt="JulianaVelasques" />
+</div>
+  
+ ### Current working with:
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+</p>
+
+### I'm learning:
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+</p>
+
+ ### Next Level:
+<p>
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+</p>
 
 ### Connect with me:
 
