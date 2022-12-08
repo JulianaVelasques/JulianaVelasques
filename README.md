@@ -16,13 +16,13 @@
 
 - ⚡ Fun fact: I'm a ballerina, I love hiking and Learning languages.
 
-
+<!-- 
 ### 🛠 Analytics & Languages
 <div align="center">
   <img height=160px src="https://github-readme-stats.vercel.app/api?username=JulianaVelasques&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"" alt="JulianaVelasques" />
   <img height=160px src="https://github-readme-stats.vercel.app/api/top-langs?username=JulianaVelasques&layout=compact&langs_count=16&theme=dracula"" alt="JulianaVelasques" />
 </div>
-  
+   -->
  ### Current working with:
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
