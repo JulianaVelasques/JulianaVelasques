@@ -3,19 +3,19 @@
 
 # Hey there, this is Juliana 👋
 
-### I'm a Computer Engineering Student, Front-End Web developer and AI advocate.
+### I'm a Computer Engineering Student, Software engineer, and AI advocate.
 
 - 🎓 Education:
 	- Bachelor's in Computer Engineering - Currently (Remote)
 	- Bachelor's in Civil Engineering - DropOut (Brazil 🇧🇷)
 	- Summer School in Artificial Intelligence (China 🇨🇳)
 - :woman_technologist: Work:
-	- I'm currently working as a Front-End Developer with Angular
-	- Doing some cool personal projects using React and tailwind
-	- Learning python to enter the AI world
+	- I'm currently working as a Software engineer
+	- Doing some cool personal projects using React and Tailwind
+	- Learning Python to enter the AI world
 - :superhero_woman: I'm a very curious person and love learning new stuff
 
-- ⚡ Fun fact: I'm a laughter therapy volunter, I love hiking and Learning languages.
+- ⚡ Fun fact: I'm a laughter therapy volunteer, I love hiking and Learning languages.
 
 <!-- 
 ### 🛠 Analytics & Languages
