@@ -10,12 +10,12 @@
 	- Bachelor's in Civil Engineering - DropOut (Brazil 🇧🇷)
 	- Summer School in Artificial Intelligence (China 🇨🇳)
 - :woman_technologist: Work and others:
-	- I'm currently working as a Software engineer
-	- Creating my first ML project using the Iris dataset
+	- I'm currently working as a Software engineer;
+	- I'm currently doing some cool stuff with ML at my job;
 	- Learning the basics to understand ML and the AI world.
 - :superhero_woman: I'm a very curious person and love learning new stuff
 
-- ⚡ Fun fact: I'm a laughter therapy volunteer, I love hiking and Learning languages.
+- ⚡ Fun fact: I'm a ballerina and a laughter therapy volunteer, I love hiking and Learning languages.
 
 <!-- 
 ### 🛠 Analytics & Languages
